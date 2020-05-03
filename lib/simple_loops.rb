@@ -18,5 +18,8 @@ def output_array(arr)
   end
 end
 
-def return_string_array
+def return_string_array(arr)
+  newArr = []
+  for i in arr do
+    newArr.push(i.)
 end
