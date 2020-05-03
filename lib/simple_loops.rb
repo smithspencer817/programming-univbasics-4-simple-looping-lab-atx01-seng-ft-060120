@@ -21,5 +21,5 @@ end
 def return_string_array(arr)
   newArr = []
   for i in arr do
-    newArr.push(i.)
+    newArr.push(i.to_s)
 end
